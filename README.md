@@ -56,3 +56,9 @@ plt.savefig("./reduced_data.png")
 <p align="center">
 <img src="./images/load_digits.png" alt="Dimensionality Reduction on Load Digits" style="max-width:100%; max-height:100%; width:auto; height:auto; object-fit:cover;">
 </p>
+
+
+## References
+
+[1]	L. McInnes, J. Healy, and J. Melville, "Umap: Uniform manifold approximation and projection for dimension reduction," arXiv preprint arXiv:1802.03426, 2018.
+

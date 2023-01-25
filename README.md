@@ -4,9 +4,9 @@ Uniform Manifold Approximation and Projection (UMAP) is an algorithm for dimensi
 
 Main components of the algorithm are as follows
 
-- Finding K-nearest neighbors with their corresponding distances in the original data
+- Finding K-nearest neighbors with their corresponding distances in the original data.
 - Using K-nearest neighbor graph, constructing a fuzzy simplicial set.
-- Initializing the low-dimensional embeddings with a logical start
+- Initializing the low-dimensional embeddings with a reasonable start.
 - Optimizing the low-dimensional embeddings using the fuzzy simplicial set constructed from original data.
 
 ## Dependencies

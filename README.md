@@ -60,5 +60,5 @@ plt.savefig("./reduced_data.png")
 
 ## References
 
-[1]	L. McInnes, J. Healy, and J. Melville, "Umap: Uniform manifold approximation and projection for dimension reduction," arXiv preprint arXiv:1802.03426, 2018.
+[1]	L. McInnes, J. Healy, and J. Melville, "Umap: Uniform manifold approximation and projection for dimension reduction," arXiv preprint [arXiv:1802.03426](https://arxiv.org/abs/1802.03426), 2018.
 

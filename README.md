@@ -47,9 +47,9 @@ plt.savefig("./reduced_data.png")
 ## Example Figures
 
 <p align="center">
-  <img width="460" height="175" src="./images/mnist.PNG">
+  <img width="460" height="175" src="./images/mnist.png">
 </p>
 
 <p align="center">
-  <img width="460" height="175" src="./images/load_digits.PNG">
+  <img width="460" height="175" src="./images/load_digits.png">
 </p>

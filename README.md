@@ -44,7 +44,7 @@ plt.title("Data embedded into two dimensions", fontsize=18)
 plt.savefig("./reduced_data.png")
 ```
 
-## Example Figures
+## Figures on MNIST and Load Digits Datasets
 
 <p align="center">
 <img src="./images/mnist.png" alt="Dimensionality Reduction on MNIST" style="max-width:100%; max-height:100%; width:auto; height:auto; object-fit:cover;">
